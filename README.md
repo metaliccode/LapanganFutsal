@@ -1,7 +1,11 @@
 # LapanganFutsal
 Aplikasi ini merupakan project lama saya dalam membuat sebuah sistem penyewaan lapangan futsal Zone73 daerah cibiru dengan menggunakan bahasa pemrograman Java
 Old my project, App base on desktop java netbeans.
-
+#System Requrement
+- Git (for cloning project)
+- JDK & JRE
+- NetBean
+- MySQL/SQL
 # Preview Project
 Tampilan Pertama Aplikasi Desktop Lapangan Futsal Zone73
 
